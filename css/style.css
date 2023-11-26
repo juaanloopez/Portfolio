@@ -10,6 +10,10 @@ body, html{
     font-family: 'Poppins', sans-serif;
 }
 
+a{
+    text-decoration: none;
+}
+
 h1{
     -webkit-text-fill-color: transparent;
     background: linear-gradient(to right,#252525,#5425b3);
